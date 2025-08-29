@@ -1,3 +1,5 @@
+# Required libraries for the project
+
 opencv-python
 numpy
 Flask
